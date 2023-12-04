@@ -1,0 +1,2 @@
+This is second file has been made so that I can understand diff
+between unstaged file vs untracked files. 
