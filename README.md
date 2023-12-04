@@ -1,2 +1,6 @@
 # gitRevision
-Some kind of testing is happening here. ;)
+Some kind of testing is happening here.
+
+
+1. Changing this from the site. 
+   First opened this REPO and changing README from github site.
